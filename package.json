@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/crstndssn-gl/kiklap/issues"
   },
-  "homepage": "https://github.com/crstndssn-gl/kiklap#readme"
+  "homepage": "https://github.com/crstndssn-gl/kiklap#readme",
+  "dependencies": {
+    "nodemon": "^1.19.4"
+  }
 }
